@@ -1,4 +1,4 @@
 streamlit
 pandas
-pickle
+pickle5
 scikit-learn
