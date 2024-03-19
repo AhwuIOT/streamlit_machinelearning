@@ -2,4 +2,3 @@ streamlit
 pandas
 pickle5
 scikit-learn==1.4.0
-python==3.10
